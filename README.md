@@ -21,8 +21,8 @@ Se facilitan una serie de pautas con las que trabajar en Illustrator para que el
 3. A cada mesa de trabajo que incluya un icono le cambiaremos el nombre por defecto y le asignaremos el nombre del icono.
 
 4. Una vez tengamos nuestros iconos diseñados nos vamos a la opción de Illustrator:
-- *en castellano:* Archivo -> Secuencias de comandos -> export_illustrator_android
-- *in english:* File -> Scripts -> export_illustrator_android
+*en castellano:* Archivo -> Secuencias de comandos -> export_illustrator_android
+*in english:* File -> Scripts -> export_illustrator_android
 
 5. Se abrirá una pequeña modal y nos pedirá en qué formatos queremos realizar la exportación.
 
